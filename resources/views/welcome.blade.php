@@ -9,8 +9,10 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
-        href="https://fonts.googleapis.com/css2?family=Pacifico&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        href="https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Pacifico&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
         rel="stylesheet">
 </head>
 
@@ -41,10 +43,10 @@
                     <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Jobs</a>
                 </div>
                 <div class="lg:flex lg:flex-1 lg:justify-end grid grid-cols-2 gap-6">
-                    <a href=""
+                    <a href="register"
                         class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Signup
                     </a>
-                    <a href="#" class="text-sm font-semibold leading-6 text-gray-900 mt-2">Log in <span
+                    <a href="login" class="text-sm font-semibold leading-6 text-gray-900 mt-2">Log in <span
                             aria-hidden="true">&rarr;</span></a>
                 </div>
             </nav>
@@ -72,7 +74,7 @@
                         <div class="-my-6 divide-y divide-gray-500/10">
                             <div class="space-y-2 py-6">
                                 <a href="#"
-                                    class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">Dashboard</a>
+                                    class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">Home</a>
                                 <a href="#"
                                     class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">About</a>
                                 <a href="#"
@@ -108,11 +110,9 @@
                     <p class="mt-6 text-lg leading-8 text-gray-600">Delivering digital skills to drive Employability and
                         Socio-economic impact.</p>
                     <div class="mt-10">
-                        <a href="#"
+                        <a href="register"
                             class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Get
                             started</a>
-                        <a href="#" class="text-sm font-semibold leading-6 text-gray-900 ml-5">Learn more <span
-                                aria-hidden="true">→</span></a>
                     </div>
                 </div>
             </div>
